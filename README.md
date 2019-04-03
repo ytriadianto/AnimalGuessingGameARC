@@ -1,5 +1,5 @@
 # AnimalGuessingGameARC
-A code challenge game
+A simple console challenge game
 
 Running the program:
 1. Clone or save the project root directory
