@@ -1,0 +1,11 @@
+c:\users\udho7\source\repos\GuessTheAnimalConsole\GuessTheAnimalConsole\bin\Debug\GuessTheAnimalConsole.exe.config
+c:\users\udho7\source\repos\GuessTheAnimalConsole\GuessTheAnimalConsole\bin\Debug\GuessTheAnimalConsole.exe
+c:\users\udho7\source\repos\GuessTheAnimalConsole\GuessTheAnimalConsole\bin\Debug\GuessTheAnimalConsole.pdb
+c:\users\udho7\source\repos\GuessTheAnimalConsole\GuessTheAnimalConsole\obj\Debug\GuessTheAnimalConsole.csprojAssemblyReference.cache
+c:\users\udho7\source\repos\GuessTheAnimalConsole\GuessTheAnimalConsole\obj\Debug\GuessTheAnimalConsole.csproj.CoreCompileInputs.cache
+c:\users\udho7\source\repos\GuessTheAnimalConsole\GuessTheAnimalConsole\obj\Debug\GuessTheAnimalConsole.exe
+c:\users\udho7\source\repos\GuessTheAnimalConsole\GuessTheAnimalConsole\obj\Debug\GuessTheAnimalConsole.pdb
+c:\users\udho7\source\repos\GuessTheAnimalConsole\GuessTheAnimalConsole\bin\Debug\Newtonsoft.Json.dll
+c:\users\udho7\source\repos\GuessTheAnimalConsole\GuessTheAnimalConsole\bin\Debug\Newtonsoft.Json.pdb
+c:\users\udho7\source\repos\GuessTheAnimalConsole\GuessTheAnimalConsole\bin\Debug\Newtonsoft.Json.xml
+c:\users\udho7\source\repos\GuessTheAnimalConsole\GuessTheAnimalConsole\obj\Debug\GuessTheAnimalConsole.csproj.CopyComplete
