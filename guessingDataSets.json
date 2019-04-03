@@ -1,0 +1,93 @@
+{
+  "data": "Are you a mammal?",
+  "yes": {
+    "data": "Do you have a big body?",
+    "yes": {
+      "data": "Do you look like a cat?",
+      "yes": {
+        "data": "Do you have orange and black stripes?",
+        "yes": {
+          "data": "Tiger"
+        },
+        "no": {
+          "data": "Lion"
+        }
+      },
+      "no": {
+        "data": "Do you have a snout?",
+        "yes": {
+          "data": "Elephant"
+        },
+        "no": {
+          "data": "Do you have a horn?",
+          "yes": {
+            "data": "Rhino"
+          },
+          "no": {
+            "data": "Hippopotamus"
+          }
+        }
+      }
+    },
+    "no": {
+      "data": "Are you very small?",
+      "yes": {
+        "data": "Do you have a whiskers?",
+        "yes": {
+          "data": "Do you have a long tail?",
+          "yes": {
+            "data": "Mouse"
+          },
+          "no": {
+            "data": "Hamster"
+          }
+        }
+      },    
+      "no": {
+        "data": "Do you bark?",
+        "yes": {
+          "data": "Dog"
+        },
+        "no": {
+          "data": "Cat"
+        }
+      }
+    }
+  },
+  "no": {
+    "data": "Do you have wings?",
+    "yes": {
+      "data": "Bird"
+    },
+    "no": {
+      "data": "Do you live in the ocean?",
+      "yes": {
+        "data": "Fish"
+      },
+      "no": {
+        "data": "Do you have scales?",
+        "yes": {
+          "data": "Are you heavy?",
+          "yes": {
+            "data": "Crocodile"          
+
+          },
+          "no": {
+            "data": "Snake"
+
+          }
+        },
+        "no": {
+          "data": "Do you usually hop when moving?",
+          "yes": {
+            "data": "Frog"
+          },
+          "no": {
+            "data": "Salamander"
+          }
+        }
+      }
+    }
+
+  }
+}
